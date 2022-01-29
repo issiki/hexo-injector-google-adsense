@@ -1,5 +1,5 @@
 {
-  "name": "hexo-injector-google-adsense",
+  "name": "@sakunahime/hexo-injector-google-adsense",
   "version": "0.0.1",
   "description": "help to insert google adsense code between <head> and </head>",
   "main": "src/index.js",
